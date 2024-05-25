@@ -100,7 +100,7 @@ body{
     display: none;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 700px) {
     .search{
     width: 100%;
 }
